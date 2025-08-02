@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'QuiteChocolatey';
+	src: url('../fonts/quitechocolatey.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/quitechocolatey.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/quitechocolatey.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/quitechocolatey.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/quitechocolatey.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/quitechocolatey.svg#quitechocolatey') format('svg'); /* Chrome < 4, Legacy iOS */
+}
