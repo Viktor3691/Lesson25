@@ -3,8 +3,13 @@
 }
 
 body {
-    margin: 0;
+    width: 2000px;
+    margin: 0 auto;
 background: #01053d;
+}
+
+.header {
+    margin: 0 auto;
 }
 
 .container1 {
