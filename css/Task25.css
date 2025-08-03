@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-background: #886363;
+background: #01053d;
 }
 
 .container1 {
@@ -60,7 +60,7 @@ background: #886363;
 .nav{
     display: flex;
     list-style: none;
-    padding: 40px 0 0 200px;
+    padding: 40px 0 0 350px;
     margin: 0;
 }
 .nav li a{
@@ -91,7 +91,7 @@ background-color: #000;
         font-family: Arial, Helvetica, sans-serif;
 }
 .box1_h_text2 {
-    padding: 100px 0 0 75px;
+    padding: 75px 0 0 75px;
     width: 639px;
         height: 80px;
         font-size: 90px;
@@ -116,6 +116,7 @@ background-color: #000;
 }
 
 .service__title {
+    padding: 0 0 0 75px;
     font-family: 'Montserrat', sans-serif;
     font-size: 50px;
     font-weight: 700;
@@ -149,6 +150,7 @@ color: #c62314;
 
 .service__text {
     font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
 }
 
 }
